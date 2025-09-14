@@ -1,0 +1,3 @@
+s = []
+s.append(10)
+print(s.pop())

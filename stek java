@@ -1,0 +1,10 @@
+import java.util.Stack;
+public class Main {
+    public static void main(String[] args) {
+        Stack<Integer> a = new Stack<>();
+        a.push(10);
+        a.push(20);
+        a.push(30);
+        System.out.println(a);
+    }
+}
